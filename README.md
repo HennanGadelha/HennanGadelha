@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hennan Gadelha. I work as a software developer at Zup, with Java and Kotlin languages.
+My name is Hennan Gadelha. I work as a software developer at itau, with Java and Kotlin languages.
 
 Known languages and tools 🛠
 
